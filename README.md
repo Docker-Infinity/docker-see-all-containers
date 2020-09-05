@@ -7,22 +7,22 @@ To see all these different status containers. So for that you will have to use t
 ## See All Running Containers
 
 ### New command
-<code> sudo docker container ls </code>
+<pre><code> sudo docker container ls </code></pre>
 
 ### Old Command
-<code> sudo docker ps </code>
+<pre><code> sudo docker ps </code></pre>
 
 When you use the above command. Then you will see only the containers which are running.
 
 ## See All Stopped Containers
 ### New Command
-<code> sudo docker container ls -a </code>
+<pre><code> sudo docker container ls -a </code></pre>
 
 ### Old Command
-<code> sudo docker ps -a </code>
+<pre><code> sudo docker ps -a </code></pre>
 
 ## See All Exited Containers
 ### New Command
 
-## <pre style="text-align:center;"><a href="https://whatisdockerfor.com/docker-see-all-containers/">Show More</a></pre>
+## <a href="https://whatisdockerfor.com/docker-see-all-containers/">Show More</a>
 
