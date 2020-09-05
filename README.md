@@ -24,4 +24,5 @@ When you use the above command. Then you will see only the containers which are 
 ## See All Exited Containers
 ### New Command
 
-## <a href="https://whatisdockerfor.com/docker-see-all-containers/">Show More</a>
+## <pre style="text-align:center;"><a href="https://whatisdockerfor.com/docker-see-all-containers/">Show More</a></pre>
+
